@@ -1,0 +1,6 @@
+Jerry;<=18;Male;Cats;H7Y7Y6
+Marry;26-39;Male;Dogs,Other;H7Y7Y6
+Marry;26-39;Female;Dogs,Other;H7Y7Y6
+asdfsafd;<=18;Female;Cats;H7U8j3
+Jimmy;40+;Male;Other;r3r3r3
+asdfsafd;<=18;N/A;Dogs;h5h5h5
